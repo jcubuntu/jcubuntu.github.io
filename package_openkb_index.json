@@ -5,7 +5,7 @@
       "help": {
         "online": "http://esp32.com"
       }, 
-      "websiteURL": "https://github.com/jcubuntu/Arduino-OpenKB", 
+      "websiteURL": "https://github.com/jcubuntu/Arduio-OpenKB", 
       "platforms": [
         {
           "category": "ESP32", 
@@ -23,10 +23,13 @@
               "name": "ESP32 Dev Module"
             }, 
             {
-              "name": "OpenKB"
+              "name": "WEMOS LoLin32"
             }, 
             {
               "name": "WEMOS D1 MINI ESP32"
+            },
+            {
+              "name": "INEX OPENKB"
             }
           ], 
           "toolsDependencies": [
