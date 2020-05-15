@@ -10,7 +10,7 @@
         {
           "category": "ESP32", 
           "name": "esp32", 
-          "url": "https://github.com/jcubuntu/Arduino-OpenKB/releases/download/v0.0.1/Arduino-OpenKB-1.0.4.zip", 
+          "url": "https://github.com/jcubuntu/Arduino-OpenKB/releases/download/v1.0.4/Arduino-OpenKB-1.0.4.zip", 
           "checksum": "SHA-256:5228075ccd394e0ea6bd053d2331991e531a67646c10a0f89a1f9d99949ec279", 
           "help": {
             "online": ""
